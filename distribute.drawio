@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T02:13:10.037Z" agent="5.0 (Windows)" version="17.0.0" etag="twxz_TStYG5EaINdfMp7" type="github"><diagram id="X1k5wooxUD0nbPay_goD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T05:36:26.021Z" agent="5.0 (Windows)" etag="WGz7kUF1pZ4eG8Kt6a7-" version="17.0.0" type="github">
+  <diagram id="X1k5wooxUD0nbPay_goD" name="Page-1">
+    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TON6ZnbEvKPzDLg4o7k-1" target="2TON6ZnbEvKPzDLg4o7k-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-1" value="工单责任人（部门负责人）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-12" value="&lt;div&gt;工单类型不可变，&lt;/div&gt;&lt;div&gt;工单责任人&lt;/div&gt;&lt;div&gt;后台根据权限提供选择接口&lt;br&gt;&lt;/div&gt;&lt;div&gt;,选择多少责任人，&lt;/div&gt;&lt;div&gt;生成多少工单&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2TON6ZnbEvKPzDLg4o7k-9" target="2TON6ZnbEvKPzDLg4o7k-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-9" value="工单1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2TON6ZnbEvKPzDLg4o7k-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-13" value="工单1-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2TON6ZnbEvKPzDLg4o7k-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-14" value="工单1-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2TON6ZnbEvKPzDLg4o7k-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-15" value="工单1-n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-17" value="工单责任人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="325" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-20" value="工单责任人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="240" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2TON6ZnbEvKPzDLg4o7k-21" value="工单责任人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="450" width="20" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
